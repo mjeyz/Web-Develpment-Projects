@@ -8,4 +8,3 @@ Hello my name is Mudassir! i am a student i am learning how to code. i want to b
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
